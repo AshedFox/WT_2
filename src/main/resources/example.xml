@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <oven>
+        <id>000ebbd7-1f77-4213-8086-5f1c2011f887</id>
+        <name>Oven 2000</name>
+        <category>Oven</category>
+        <price>99</price>
+        <powerConsumption>1000</powerConsumption>
+        <weight>10</weight>
+        <capacity>32</capacity>
+        <depth>60</depth>
+        <height>45</height>
+        <width>59</width>
+    </oven>
+    <oven>
+        <id>b443a249-59dc-4a96-8598-b5ae087bc594</id>
+        <name>Oven 3000</name>
+        <category>Oven</category>
+        <price>29</price>
+        <powerConsumption>900</powerConsumption>
+        <weight>9</weight>
+        <capacity>22</capacity>
+        <depth>40</depth>
+        <height>28</height>
+        <width>59</width>
+    </oven>
+    <laptop>
+        <id>8c912837-f934-4d25-b646-6d4775b9cc50</id>
+        <name>Laptop 2000</name>
+        <category>Laptop</category>
+        <price>79</price>
+        <batteryCapacity>1</batteryCapacity>
+        <os>Windows</os>
+        <memoryROM>4000</memoryROM>
+        <systemMemory>1000</systemMemory>
+        <cpu>4</cpu>
+        <displayInchs>18</displayInchs>
+    </laptop>
+    <laptop>
+        <id>e58c0532-cd13-4fee-a39d-af580a608fd8</id>
+        <name>Laptop 3000</name>
+        <category>Laptop</category>
+        <price>89</price>
+        <batteryCapacity>8</batteryCapacity>
+        <os>Linux</os>
+        <memoryROM>8192</memoryROM>
+        <systemMemory>2048</systemMemory>
+        <cpu>8</cpu>
+        <displayInchs>24</displayInchs>
+    </laptop>
+    <refrigerator>
+        <id>ac2fb679-a5e7-40b4-99a7-30d49eaeb40b</id>
+        <name>Refrigerator 2000</name>
+        <category>Refrigerator</category>
+        <price>79</price>
+        <powerConsumption>100</powerConsumption>
+        <weight>20</weight>
+        <freezerCapacity>10</freezerCapacity>
+        <overallCapacity>300</overallCapacity>
+        <height>200</height>
+        <width>70</width>
+    </refrigerator>
+    <refrigerator>
+        <id>5bef343e-a991-4761-bdea-d7893fb5de02</id>
+        <name>Refrigerator 3000</name>
+        <category>Refrigerator</category>
+        <price>199</price>
+        <powerConsumption>90</powerConsumption>
+        <weight>16</weight>
+        <freezerCapacity>60</freezerCapacity>
+        <overallCapacity>200</overallCapacity>
+        <height>300</height>
+        <width>120</width>
+    </refrigerator>
+    <vacuumcleaner>
+        <id>742f81cb-3b33-4800-b6ea-d893fe4a2db1</id>
+        <name>Vacuum Cleaner 2000</name>
+        <category>Vacuum Cleaner</category>
+        <price>99</price>
+        <powerConsumption>100</powerConsumption>
+        <filterType>a</filterType>
+        <bagType>a2</bagType>
+        <wandType>all-in-one</wandType>
+        <motorSpeedRegulation>false</motorSpeedRegulation>
+        <cleaningWidth>20</cleaningWidth>
+    </vacuumcleaner>
+    <vacuumcleaner>
+        <id>ef89dc52-9c68-4390-b8ba-c36c0e9635be</id>
+        <name>Vacuum Cleaner 3000</name>
+        <category>Vacuum Cleaner</category>
+        <price>129</price>
+        <powerConsumption>110</powerConsumption>
+        <filterType>b</filterType>
+        <bagType>aa-89</bagType>
+        <wandType>all-in-one</wandType>
+        <motorSpeedRegulation>true</motorSpeedRegulation>
+        <cleaningWidth>30</cleaningWidth>
+    </vacuumcleaner>
+    <tabletpc>
+        <id>d9f13645-2b9d-4d8b-a2d4-1cb12db40174</id>
+        <name>Tablet PC 2000</name>
+        <category>Tablet PC</category>
+        <price>89</price>
+        <batteryCapacity>3</batteryCapacity>
+        <displayInches>14</displayInches>
+        <memoryROM>8000</memoryROM>
+        <flashMemoryCapacity>2</flashMemoryCapacity>
+        <color>blue</color>
+    </tabletpc>
+    <tabletpc>
+        <id>b33b815e-3d9d-47c0-a745-3d37c54bc469</id>
+        <name>Tablet PC 3000</name>
+        <category>Tablet PC</category>
+        <price>109</price>
+        <batteryCapacity>9</batteryCapacity>
+        <displayInches>18</displayInches>
+        <memoryROM>4096</memoryROM>
+        <flashMemoryCapacity>6</flashMemoryCapacity>
+        <color>red</color>
+    </tabletpc>
+    <speakers>
+        <id>71b5c918-b3e2-42a8-b87e-84b64cf63b96</id>
+        <name>Speakers 2000</name>
+        <category>Speakers</category>
+        <price>99</price>
+        <powerConsumption>15</powerConsumption>
+        <numberOfSpeakers>2</numberOfSpeakers>
+        <frequencyRange>2-4</frequencyRange>
+        <cordLength>2</cordLength>
+    </speakers>
+    <speakers>
+        <id>07f5f59f-6304-4f88-be21-e9a58db745a9</id>
+        <name>Speakers 3000</name>
+        <category>Speakers</category>
+        <price>299</price>
+        <powerConsumption>19</powerConsumption>
+        <numberOfSpeakers>2</numberOfSpeakers>
+        <frequencyRange>2-16</frequencyRange>
+        <cordLength>3</cordLength>
+    </speakers>
+</products>
