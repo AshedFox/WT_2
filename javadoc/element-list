@@ -1,0 +1,10 @@
+bsuir.wt.lab2.dao
+bsuir.wt.lab2.dao.exception
+bsuir.wt.lab2.dao.impl
+bsuir.wt.lab2.entity
+bsuir.wt.lab2.entity.criteria
+bsuir.wt.lab2.main
+bsuir.wt.lab2.service
+bsuir.wt.lab2.service.exception
+bsuir.wt.lab2.service.impl
+bsuir.wt.lab2.service.validation
